@@ -1,6 +1,8 @@
 # Analyse et comparaison
 
-A mettre en lien ou comparaison avec cet autre article que nous avons traité ensemble : https://www.01net.com/actualites/pirater-un-boeing-737-en-60-secondes-ce-minuscule-boitier-peut-permettre-de-detourner-un-avion.html
+A mettre en lien ou comparaison avec cet autre article que nous avons déjà traité ensemble : https://www.01net.com/actualites/pirater-un-boeing-737-en-60-secondes-ce-minuscule-boitier-peut-permettre-de-detourner-un-avion.html
+
+https://www.usine-digitale.fr/cybersecurite/les-attaquants-ne-cassent-plus-les-systemes-pour-rentrer-ils-se-loguent-airbus-revoit-en-profondeur-sa-doctrine-cyber.SLLUOPSHYJEQBIEDLN34AAKUHE.html
 
 Les deux articles se complètent très bien : le premier décrit une **vulnérabilité technique locale**, tandis que l’article sur Airbus décrit la **doctrine de sécurité nécessaire pour gérer ce type de menace à l’échelle d’un groupe aéronautique et de sa supply chain**.
 
